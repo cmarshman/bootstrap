@@ -30,7 +30,7 @@ body {
   
   .bg-dark{
     background-color: #333!important;
-    /* padding-left: 50px 50px 0px 50px !important; */
+
   }
   
   li {
@@ -45,12 +45,12 @@ body {
     text-decoration: none;
   }
   
-  .col {
+  .col-md-11 {
     background-color: #333;
     color: #efeee7;
-    margin: 0 auto;
     margin: 50px;
     padding-bottom: 10px;
+    margin: 0 auto;
   }
 
   li a:hover {

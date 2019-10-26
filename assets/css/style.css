@@ -74,8 +74,9 @@ img {
 
 .container {
   margin: 0 auto;
+  
 }
-.col-md-8 {
+.col-md-12 {
   background-color: #333;
   color: #efeee7;
   margin: 0 auto;
