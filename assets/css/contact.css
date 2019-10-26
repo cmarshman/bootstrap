@@ -8,7 +8,10 @@ body {
     background: #efeee7;
     background-image: url('https://www.transparenttextures.com/patterns/cartographer.png');
   }
-  
+
+.navbar {
+  padding: 0px;
+}
   ul {
     list-style-type: none;
     margin: 0px;
